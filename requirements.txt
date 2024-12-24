@@ -1,0 +1,7 @@
+tkinter
+customtkinter
+librosa
+soundfile
+numpy
+scipy
+noisereduce
